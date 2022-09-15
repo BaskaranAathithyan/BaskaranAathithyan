@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Web Based Event Management System**
+- 🔭 I’m currently working on **Web Based Event Management System for MASTER STUDIO**
 
 - 🌱 I’m currently learning **MERN STACK**
 
-
+- 🌱 I’m currently working on Intern Software Engineer at Overleap (Pvt) Ltd
 
 - 👨‍💻 All of my projects are available at **My Portfolio**
 
