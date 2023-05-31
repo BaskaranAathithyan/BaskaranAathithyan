@@ -8,15 +8,11 @@
 
 - 🔭 I’m currently working on *Web Based Event Management System for MASTER STUDIO*
 
-- 🌱 I’m currently learning *MERN STACK*
-
-- 🌱 I’m currently working on Intern Software Engineer at Over Leap pvt.Ltd 
+- 🌱 I’m currently learning *.Net* 
 
 - 👨‍💻 All of my projects are available at *My Portfolio*
 
 - 📫 How to reach me *baskaranaathi11@gmail.com*
-
-- ⚡ Fun fact *I Love to Create*
 
 ## 🚀 Languages and Tools:
 
